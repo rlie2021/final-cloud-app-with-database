@@ -1,5 +1,5 @@
   applications:
-  - name: onlinecourse
+  - name: simple-toolchain-20220516170840933
     routes:
       - route: host.domain
     memory: 128M
